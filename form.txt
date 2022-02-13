@@ -1,0 +1,54 @@
+.container {
+    border: 2px solid !important;
+    width: 1295px;
+    width: 80%;
+}
+
+input[type='text'] {
+    height: 2rem !important;
+}
+
+.signerDetails {
+    border: 1px solid;
+}
+
+#header {
+    margin-top: 5vw;
+}
+
+<table class="table new">
+      <tr class="singerc">
+        <td>
+          <label for="" class="Person" style="margin-right: 71px;">Singer Person  </label>
+          <input type="text" class="Ising" spellcheck="false" data-ms-editor="true">
+        </td>
+        <td>
+            <label for="" class="type" style="margin-right: 55px;">Sign Type </label>
+          <input type="text" class="td_" spellcheck="false" data-ms-editor="true">
+        </td>
+      </tr>
+      <tr class="Email">
+        <td>
+          <label for="" class="Email" style="margin-right: 77px;">Singer Email  </label>
+          <input type="text" class="td_" spellcheck="false" data-ms-editor="true">
+        </td>
+      </tr>
+      <tr class="emit">
+        <td>
+        <label for="" class="Emirates" style="margin-right: 32px;">Signer Emirates ID </label>
+        <input type="text" class="td_" spellcheck="false" data-ms-editor="true">
+        </td>
+      </tr>
+    </table>
+    <table class="table existing">
+      <tr class="singerc">
+        <td>
+          <label for="" class="Person" style="margin-right: 71px;">Singer Person  </label>
+          <input type="text" class="Ising" spellcheck="false" data-ms-editor="true">
+        </td>
+        <td>
+            <label for="" class="type" style="margin-right: 55px;">Sign Type </label>
+          <input type="text" class="td_" spellcheck="false" data-ms-editor="true">
+        </td>
+      </tr>
+    </table>
